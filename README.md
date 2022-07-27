@@ -1,2 +1,1 @@
-# group16
-GAIP Project 
+## Breast Tumor Classification 
